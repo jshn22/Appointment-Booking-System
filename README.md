@@ -20,7 +20,6 @@ src/
   models/
   routes/
   utils/
-  app.js
   server.js
 ```
 
